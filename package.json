@@ -1,0 +1,7 @@
+{
+  "name": "magic-image",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Small React + Node TypeScript scaffold for Magic Image Generator",
+  "license": "MIT"
+}
